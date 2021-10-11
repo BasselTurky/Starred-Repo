@@ -5,7 +5,7 @@ then sorts them based on the number of stars.
 
 # Installation
 
-1- cd <project directory>
+1- cd "project directory"
 
 2-npm install
 
