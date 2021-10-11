@@ -1,6 +1,6 @@
 # Introduction
 
-This project uses Github API to fetch all data for all repositories created in the last 30 days,
+This project uses Github API to fetch data for all repositories created in the last 30 days,
 then sorts them based on the number of stars.
 
 # Installation
